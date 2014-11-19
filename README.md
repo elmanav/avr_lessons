@@ -1,5 +1,4 @@
 # AVR lessons
-===========
 
 ## Introduction
 
