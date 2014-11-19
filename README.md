@@ -2,6 +2,7 @@ AVR lessons
 ===========
 
 Basic lessons AVR microcontrollers
-
-AVR Studio
-Proteus ISIS 7
+----------------------------------
+Basic tools:
+	* AVR Studio
+	* Proteus ISIS 7
