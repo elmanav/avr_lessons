@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>6.2</ProjectVersion>
     <ToolchainName>com.Atmel.AVRGCC8.C</ToolchainName>
-    <ProjectGuid>{06210dbb-6400-4f43-90b9-e3b459561370}</ProjectGuid>
+    <ProjectGuid>{aeca53cd-da67-42dd-be4b-b2a86975c2dd}</ProjectGuid>
     <avrdevice>ATmega8A</avrdevice>
     <avrdeviceseries>none</avrdeviceseries>
     <OutputType>Executable</OutputType>
@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>Tutorial1_LED</AssemblyName>
-    <Name>Tutorial1_LED</Name>
-    <RootNamespace>Tutorial1_LED</RootNamespace>
+    <AssemblyName>Lesson2_PortInput</AssemblyName>
+    <Name>Lesson2_PortInput</Name>
+    <RootNamespace>Lesson2_PortInput</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
@@ -106,7 +106,7 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Tutorial1_LED.c">
+    <Compile Include="Lesson2_PortInput.c">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>

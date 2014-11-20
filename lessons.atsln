@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Atmel Studio Solution File, Format Version 11.00
-Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Tutorial1_LED", "Tutorial1_LED\Tutorial1_LED.cproj", "{06210DBB-6400-4F43-90B9-E3B459561370}"
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lesson1_LED", "Lesson1_LED.prj\Lesson1_LED.cproj", "{06210DBB-6400-4F43-90B9-E3B459561370}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lesson2_PortInput", "Lesson2_PortInput.prj\Lesson2_PortInput.cproj", "{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{06210DBB-6400-4F43-90B9-E3B459561370}.Debug|AVR.Build.0 = Debug|AVR
 		{06210DBB-6400-4F43-90B9-E3B459561370}.Release|AVR.ActiveCfg = Release|AVR
 		{06210DBB-6400-4F43-90B9-E3B459561370}.Release|AVR.Build.0 = Release|AVR
+		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Debug|AVR.Build.0 = Debug|AVR
+		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Release|AVR.ActiveCfg = Release|AVR
+		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
