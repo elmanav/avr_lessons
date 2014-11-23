@@ -5,6 +5,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lesson1_LED", "Lesson1_LED.
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lesson2_PortInput", "Lesson2_PortInput.prj\Lesson2_PortInput.cproj", "{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lesson3_7Segment", "Lesson3_7Segment\Lesson3_7Segment.cproj", "{D77EAE28-2E69-4826-A39F-4CC06EAA670E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -19,6 +21,10 @@ Global
 		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Debug|AVR.Build.0 = Debug|AVR
 		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Release|AVR.ActiveCfg = Release|AVR
 		{AECA53CD-DA67-42DD-BE4B-B2A86975C2DD}.Release|AVR.Build.0 = Release|AVR
+		{D77EAE28-2E69-4826-A39F-4CC06EAA670E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D77EAE28-2E69-4826-A39F-4CC06EAA670E}.Debug|AVR.Build.0 = Debug|AVR
+		{D77EAE28-2E69-4826-A39F-4CC06EAA670E}.Release|AVR.ActiveCfg = Release|AVR
+		{D77EAE28-2E69-4826-A39F-4CC06EAA670E}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

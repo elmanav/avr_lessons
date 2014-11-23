@@ -12,8 +12,8 @@
 
 int main(void)
 {
-    DDRB = 0xFF; // DDRB_1 - OUT
-	PORTB = 0x00; // level on Port B(0) - 0 
+		DDRB = 0xFF; // DDRB_1 - OUT
+		PORTB = 0x00; // level on Port B(0) - 0 
 	while(1)
     {
         PORTB = 0x01;
